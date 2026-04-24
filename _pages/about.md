@@ -7,23 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am **Mingxiang Li**, a master's student at the **University of Science and Technology of China (USTC)** based in **Hangzhou, China**.
+I am **Mingxiang Li**, a master's student at the **University of Science and Technology of China (USTC)**, based in **Hangzhou, China**.
 
-My research interests include:
+My research focuses on **distribution system state estimation**, **graph neural networks**, **transformer-based models**, and **data-driven methods for smart grids**. I am particularly interested in developing learning-based approaches for complex power system analysis and improving the observability and reliability of distribution networks.
+
+## Research Interests
 
 - Distribution system state estimation
 - Graph neural networks
 - Transformer-based models
 - Smart grid analytics
-- Data-driven methods for power systems
+- Data-driven power system methods
 
 ## Education
 
-- M.S. student, University of Science and Technology of China
-
-## Research Interests
-
-My current research focuses on state estimation in distribution networks, especially learning-based methods that combine graph neural networks and transformer architectures.
+- **M.S. Student**, University of Science and Technology of China
 
 ## Contact
 
