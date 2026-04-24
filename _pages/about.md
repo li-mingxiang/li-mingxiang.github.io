@@ -1,29 +1,34 @@
 ---
 permalink: /
-title: "About"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Mingxiang Li**, a master's student at the **University of Science and Technology of China (USTC)**, based in **Hangzhou, China**.
+# 👋 About Me
 
-My research focuses on **distribution system state estimation**, **graph neural networks**, **transformer-based models**, and **data-driven methods for smart grids**. I am particularly interested in developing learning-based approaches for complex power system analysis and improving the observability and reliability of distribution networks.
+I am **Mingxiang Li**, an undergraduate student in **Automation** at **Hangzhou Dianzi University (HDU)**, China.
 
-## Research Interests
+I have been admitted to the **School of Information Science and Technology** at the **University of Science and Technology of China (USTC)**, where I will pursue a master's degree in **Control Engineering** in [**AIRLab@USTC**](https://space.bilibili.com/1300450901).
 
-- Distribution system state estimation
-- Graph neural networks
-- Transformer-based models
-- Smart grid analytics
-- Data-driven power system methods
+My research interests lie in **Automatic Control**, **Reinforcement Learning**, and **Embodied Intelligence**.
 
-## Education
+If you would like to connect with me, please feel free to reach out via [**email**](mailto:22320512@hdu.edu.cn).
 
-- **M.S. Student**, University of Science and Technology of China
+# 📝 Publications 
 
-## Contact
 
-- Email: 993710524@qq.com
-- GitHub: [li-mingxiang](https://github.com/li-mingxiang)
+# 📖 Educations
+- *2026.07 - 2029.06(Admitted)*, Master, School of Information Science and Technology, University of Science and Technology of China.
+- *2022.09 - 2026.06*, Undergraduate, Automation Major, Hangzhou Dianzi University, Hangzhou.
+
+# 🎖 Honors and Awards
+2026.03, Outstanding Graduate of Zhejiang Province (Undergraduate).
+2025.12, National Scholarship (Top 1%).
+2025.04, Top 10 Outstanding Student, ITMO Joint Institute, Hangzhou Dianzi University
+2022-2026, First-Class Scholarship of Hangzhou Dianzi University (5 times)
+
+# 💻 Internships
