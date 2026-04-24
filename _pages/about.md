@@ -27,11 +27,11 @@ If you would like to connect with me, please feel free to reach out via [**email
 
 # 🎖 Honors and Awards
 - 2026.03, Outstanding Graduate of Zhejiang Province (Undergraduate).
-- 
+
 - 2025.12, National Scholarship (Top 1%).
-- 
+
 - 2025.04, Top 10 Outstanding Student, ITMO Joint Institute, Hangzhou Dianzi University
-- 
+
 - 2022-2026, First-Class Scholarship of Hangzhou Dianzi University (5 times)
 
 # 💻 Internships
