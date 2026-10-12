@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingxiang Li"
-description              : "Personal academic homepage of Mingxiang Li"
+# description              : "Personal academic homepage of Mingxiang Li"
 repository               : "li-mingxiang/li-mingxiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "mailto:lmx22@mail.ustc.edu.cn"
+  email            : "lmx22@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
