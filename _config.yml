@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingxiang Li"
-# description              : "Personal academic homepage of Mingxiang Li"
+description              : ""
 repository               : "li-mingxiang/li-mingxiang.github.io"
 google_scholar_stats_use_cdn : true
 
