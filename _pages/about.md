@@ -10,28 +10,47 @@ redirect_from:
 
 # 👋 About Me
 
-I am **Mingxiang Li**, an undergraduate student in **Automation** at **Hangzhou Dianzi University (HDU)**, China.
+I am **Mingxiang Li**, a graduate student majoring in **Artificial Intelligence** at the 
+**University of Science and Technology of China (USTC)**, working with 
+[**AIRLab@USTC**](https://space.bilibili.com/1300450901).
 
-I have been admitted to the **School of Information Science and Technology** at the **University of Science and Technology of China (USTC)**, where I will pursue a master's degree in **Control Engineering** in [**AIRLab@USTC**](https://space.bilibili.com/1300450901).
+Previously, I received my B.Eng. degree in **Automation** from 
+**Hangzhou Dianzi University (HDU)**, China.
 
-My research interests lie in **Automatic Control**, **Reinforcement Learning**, and **Embodied Intelligence**.
+My research interests include **Large Language Models**, **AI Agents**, and 
+**Vision-Language Navigation**.
 
-If you would like to connect with me, please feel free to reach out via [**email**](mailto:22320512@hdu.edu.cn).
+If you would like to connect with me, please feel free to reach out via 
+[email](mailto:lmx22@mail.ustc.edu.cn).
 
-# 📝 Publications 
+
+# 📝 Publications
+
+- **ShapeNav: 3D Geometric Perception and Reasoning for Multi-Floor Vision-and-Language Navigation**  
+  *34th ACM International Conference on Multimedia (ACM MM), 2026 (Oral)*  
+  [Paper](https://openreview.net/forum?id=dQujukOWGC)
 
 
-# 📖 Educations
-- *2026.07 - 2029.06(Admitted)*, Master, School of Information Science and Technology, University of Science and Technology of China.
-- *2022.09 - 2026.06*, Undergraduate, Automation Major, Hangzhou Dianzi University, Hangzhou.
+# 📖 Education
+
+- *2026.09 - Present*, M.S. Student in **Artificial Intelligence**, School of Information Science and Technology, 
+  University of Science and Technology of China (USTC).
+
+- *2022.09 - 2026.06*, B.Eng. in **Automation**, Hangzhou Dianzi University (HDU).
+
+
+# 💻 Research Experience
+
+- *2026.06 - Present*, Research Intern,  
+  **Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)**.
+
 
 # 🎖 Honors and Awards
+
 - 2026.03, Outstanding Graduate of Zhejiang Province (Undergraduate).
 
 - 2025.12, National Scholarship (Top 1%).
 
-- 2025.04, Top 10 Outstanding Student, ITMO Joint Institute, Hangzhou Dianzi University
+- 2025.04, Top 10 Outstanding Student, ITMO Joint Institute, Hangzhou Dianzi University.
 
-- 2022-2026, First-Class Scholarship of Hangzhou Dianzi University (5 times)
-
-# 💻 Internships
+- 2022-2026, First-Class Scholarship of Hangzhou Dianzi University (5 times).
